@@ -1,0 +1,2 @@
+# pytorch_animeDCGAN
+这是一个使用pytorch完成DCGAN生成动漫人物图像的机器学习代码
