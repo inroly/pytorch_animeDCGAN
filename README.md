@@ -6,5 +6,6 @@
 需要一个良好的网络环境
 [pytorch](https://pytorch.org/)按照官网给的连接选择自己适合的型号然后安装
 
-![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
+![blockchain](https://github.com/inroly/pytorch_animeDCGAN/blob/master/page_png/pytorch_choose.png "pytorch")
+
+这个时候我们需要了解我们电脑的cuda型号
