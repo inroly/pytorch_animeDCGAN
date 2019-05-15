@@ -38,3 +38,16 @@
 //data//face//.png
 路径可以自己在代码里面修改
 ```
+
+
+
+--------------------
+参考资料：
+
+https://github.com/chenyuntc/pytorch-book/tree/master/chapter7-GAN%E7%94%9F%E6%88%90%E5%8A%A8%E6%BC%AB%E5%A4%B4%E5%83%8F
+
+www.pytorch.org
+
+https://blog.csdn.net/sunqiande88/article/details/80219842
+
+特别致谢我亲爱的儿子
